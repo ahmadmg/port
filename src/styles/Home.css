@@ -3,7 +3,8 @@
   width: 100%;
   align-items: center;
   font-family: 'Saira', sans-serif;
-  color: #3e497a;
+  background-color: #404040;
+  color:#a0b6f7;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,14 +17,16 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #284B63;
+  background-color: #404040;
+  color: #f2f261;
   
 }
 
 .about h2 {
   font-family: 'Saira', sans-serif;
   font-size: 5rem;
-  color: #284B63;
+  
+  color:#a0b6f7;
   box-sizing: border-box;
   margin: 0;
 }
