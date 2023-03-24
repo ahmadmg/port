@@ -16,6 +16,7 @@ function Navbar() {
   return (
     <header className="navbar" id={expandNavbar ? "open" : "close"}>
      {/* Toggle Button div  */}
+     {/* Just another comment */}
       <div className="toggleButton" >
         <button
           onClick={() => {
